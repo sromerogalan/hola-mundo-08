@@ -1,1 +1,3 @@
-# hola-mundo-08
+# team-hm08
+Primer repositorio hola-mundo08 para realizar pruebas
+
